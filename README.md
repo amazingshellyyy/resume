@@ -4,7 +4,7 @@
 or check out below!
 ### Let's connect!
 - LinkedIn:https://www.linkedin.com/in/amazingshellyyy/
-- GitHub: github.com/amazingshellyyy
+- GitHub: https://github.com/amazingshellyyy
 - Portfolio: https://amazingshellyyy.com
 
 ## About Me
