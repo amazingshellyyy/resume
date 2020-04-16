@@ -41,7 +41,7 @@ variable to safely manage secrets/keys.
 - Demo: https://mapitout.github.io
 
 ### **StartKicker** 
-:point_right:[GitHub](https://github.com/amazingshellyyy/startkicker) :point_right:[Demo](https://amazingshellyyy.com/startkicker)
+:bulb:[GitHub](https://github.com/amazingshellyyy/startkicker) :mag_right:[Demo](https://amazingshellyyy.com/startkicker)
 
 <i>A platform where users can browse different projects and back the project as well as create a project to seek support.</i>
 - Kickstart-clone in MERN stack with integration of AWS SES and Stripe payment API. Deployed on Heroku and
