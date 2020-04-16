@@ -25,8 +25,8 @@ Software Engineer who excels at problem-solving, task management, communication 
 - Developed fetching workflows by creating cron jobs to output time-series data automatically.
 - Built a wikipedia web crawler from scratch with cheerio to parse and sort data into readable JSON format.
 - Managed to construct CI pipeline with Github Action and Jest testing framework. </p>
-- GitHub: https://github.com/amazingshellyyy/covid19-api
-- Demo: https://mapitout.github.io/#/covid19
+[GitHub](https://github.com/amazingshellyyy/covid19-api)
+[Demo](https://mapitout.github.io/#/covid19)
 
 ### **Mapitout** 
 <i>A platform aim to help local restaurants on their revenue lost during the shelter in place time as well as provide virus-related
@@ -41,6 +41,10 @@ variable to safely manage secrets/keys.
 - Demo: https://mapitout.github.io
 
 ### **StartKicker** 
+:point_right:[GitHub](https://github.com/amazingshellyyy/startkicker) 
+
+:point_right:[Demo](https://amazingshellyyy.com/startkicker)
+
 <i>A platform where users can browse different projects and back the project as well as create a project to seek support.</i>
 - Kickstart-clone in MERN stack with integration of AWS SES and Stripe payment API. Deployed on Heroku and
 GitHub pages.
@@ -51,6 +55,6 @@ server endpoint and frontend pages.
 - Kept the network secure and protected private resources by managing authorization with server-side
 verification and JWT.
 - Collected user payment and secured payment information by implementing Stripe payments API. 
-- GitHub: https://github.com/amazingshellyyy/startkicker
-- Demo: https://amazingshellyyy.com/startkicker
+
+
 
