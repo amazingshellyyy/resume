@@ -1,3 +1,4 @@
+
 ## I am Shelly Cheng
 - Go to my Resume direcly and download if you want: https://amazingshellyyy.com/resume/Shelly_Cheng_FE.pdf
 
@@ -60,13 +61,3 @@ verification and JWT.
 
 
 
-
-
-
-<meta property="og:title" content="This is Shelly Cheng"/>
-    <meta property="og:type" content="resume"/>
-    <meta property="og:url" content=""/>
-    <meta property="og:image" content="https://i.imgur.com/jPg6DoK.png"/>
-    <meta property="og:site_name" content="Amazingshellyyy"/>
-    <meta property="og:description"
-          content="Software Engineer who excels at problem-solving, task management, communication and developing innovative applications. Through designing, management, and marketing, I have direct experience with the full product lifecycle which helps me communicate well with cross-functional teams."/>
