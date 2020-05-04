@@ -1,6 +1,6 @@
 
 ## I am Shelly Cheng
-- Go to my Resume direcly and download if you want: https://amazingshellyyy.com/resume/Shelly_Cheng_FE.pdf
+- Go to my Resume direcly and download if you want: https://amazingshellyyy.com/resume/Shelly_Cheng_resume_FS.pdf
 
 or check out below!
 ### Let's connect!
