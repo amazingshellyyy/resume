@@ -1,10 +1,10 @@
 
 ## I am Shelly Cheng
-- Go to my Resume direcly and download if you want: https://amazingshellyyy.com/resume/Shelly_Cheng_resume_FS.pdf
+- Go to my Resume direcly and download if you want: https://amazingshellyyy.com/resume/Resume_Shelly_Cheng_2020.pdf
 
 or check out below!
 ### Let's connect!
-- LinkedIn:https://www.linkedin.com/in/amazingshellyyy/
+- LinkedIn:https://www.linkedin.com/in/amazingshellyyyy/
 - GitHub: https://github.com/amazingshellyyy
 - Portfolio: https://amazingshellyyy.com
 
